@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bộ cuyển dổi tiếq việt</string>
+    <string name="input_hint">Nhập tiếng việt vô đây nà!</string>
+    <string name="emptyInput">Vui lòng nhập câu bạn muốn chuyển đổi</string>
+    <string name="shareEmpty">Không có nội dung chuyển đổi</string>
+    <string name="copied">Kết quả đã được copy.</string>
+    <string name="pleasePaste">Hãy dán đoạn tiếq Việt vào trạng thái để chia sẻ.</string>
+    <string name="shareToFacebook">Chia sẻ : </string>
+    <string name="cancel">Hủy</string>
+    <string name="shareImg">Chia sẻ hình ảnh</string>
+    <string name="shareStatus">Chia sẻ trạng thái</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID_HERE</string>
+</resources>
